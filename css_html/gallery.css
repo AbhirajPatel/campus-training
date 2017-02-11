@@ -1,0 +1,39 @@
+.border{
+   border-color: white;
+   border-style: solid;
+   text-decoration: none;
+   width: 100%;
+   background-color: white;
+   max-height: 4px;
+   font-size:30px;
+   background-attachment: fixed;
+   opacity: 0.5;
+   }
+  
+body{
+	background-image: url("https://s-media-cache-ak0.pinimg.com/originals/5d/7c/b6/5d7cb6087ac523e05da7645b412ae1e7.gif");
+	background-repeat: no-repeat;
+	background-size: 1500px 1000px;
+}
+a:link{
+	text-decoration: none;
+}
+a:hover{
+	color: red;
+	font-size: 35px;
+}
+table{
+	border-spacing: 10px 10px;
+	border-radius: 2em;
+}
+.expand {
+  bottom: 0px;
+  margin-left: 30px;
+  margin-right: 30px;
+  pointer-events: none;
+  position: relative;
+}
+a:hover{
+	width: 90%;
+	height: 90%;
+}

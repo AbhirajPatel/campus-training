@@ -1,0 +1,59 @@
+.myimage{
+    position: absolute;
+    border-radius: 1em;
+    top: 7%;
+    left: 87%;
+    max-height: 140px;
+    max-width: 140px;
+}
+#mainhead{
+	position: absolute;
+	 top: 7%;
+	 left: 19%;
+	font-size: 30px;
+	color: red;
+}
+.education{
+		background:gray;
+		text-transform: uppercase;
+	font-size: 25px;
+	text-align: center;
+} .degree{
+	position: absolute;
+	 top: 32%;
+	 left: 19%;
+}
+.Institute{
+	position: absolute;
+	 top: 32%;
+	 left: 40%;
+
+}
+.marks{
+	position: absolute;
+	 top: 32%;
+	 left: 80%;
+}
+.bg{
+	background-color: rgba(255,255,0,0.5);
+}
+.line{
+	line-height: 150%;
+}
+.border{
+   border-color: white;
+   border-style: solid;
+   font-size:25px;
+   text-decoration:none;
+   width: 100%;
+   background-color: white;
+   height: 40px;
+   opacity: 0.5;
+   }
+   a:link{
+	text-decoration: none;
+}
+a:hover{
+	color: red;
+	size: 52px;
+}
